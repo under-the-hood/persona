@@ -4,3 +4,6 @@
 [submodule "research/llama-index-ts"]
 	path = research/llama-index-ts
 	url = git@github.com:run-llama/LlamaIndexTS.git
+[submodule "research/sec-insights"]
+	path = research/sec-insights
+	url = git@github.com:run-llama/sec-insights.git
