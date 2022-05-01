@@ -1,0 +1,3 @@
+[submodule "research/ollama"]
+	path = research/ollama
+	url = git@github.com:jmorganca/ollama.git
