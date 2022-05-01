@@ -1,3 +1,6 @@
 [submodule "research/ollama"]
 	path = research/ollama
 	url = git@github.com:jmorganca/ollama.git
+[submodule "research/llama-index-ts"]
+	path = research/llama-index-ts
+	url = git@github.com:run-llama/LlamaIndexTS.git
