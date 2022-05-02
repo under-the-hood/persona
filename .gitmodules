@@ -13,3 +13,6 @@
 [submodule "research/privategpt"]
 	path = research/privategpt
 	url = git@github.com:imartinez/privateGPT.git
+[submodule "research/superagent"]
+	path = research/superagent
+	url = git@github.com:homanp/superagent.git
