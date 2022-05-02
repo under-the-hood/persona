@@ -22,3 +22,6 @@
 [submodule "research/langchain"]
 	path = research/langchain
 	url = git@github.com:langchain-ai/langchain.git
+[submodule "research/lobe-chat"]
+	path = research/lobe-chat
+	url = git@github.com:lobehub/lobe-chat.git
