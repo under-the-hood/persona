@@ -16,3 +16,6 @@
 [submodule "research/superagent"]
 	path = research/superagent
 	url = git@github.com:homanp/superagent.git
+[submodule "research/llama-gpt"]
+	path = research/llama-gpt
+	url = git@github.com:getumbrel/llama-gpt.git
