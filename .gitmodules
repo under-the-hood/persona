@@ -10,3 +10,6 @@
 [submodule "research/llama-index"]
 	path = research/llama-index
 	url = git@github.com:run-llama/llama_index.git
+[submodule "research/privategpt"]
+	path = research/privategpt
+	url = git@github.com:imartinez/privateGPT.git
