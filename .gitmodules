@@ -19,3 +19,6 @@
 [submodule "research/llama-gpt"]
 	path = research/llama-gpt
 	url = git@github.com:getumbrel/llama-gpt.git
+[submodule "research/langchain"]
+	path = research/langchain
+	url = git@github.com:langchain-ai/langchain.git
