@@ -9,6 +9,7 @@ Building a personal actor to communicate with real people through messengers.
   - https://github.com/homanp/superagent
 - https://www.llamaindex.ai/
   - https://docs.llamaindex.ai/
+  - https://ts.llamaindex.ai/
   - https://github.com/run-llama
 - https://ollama.ai/
   - https://github.com/jmorganca/ollama
