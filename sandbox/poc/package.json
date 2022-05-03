@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "persona",
+  "version": "0.0.1",
+  "description": "Experiments with LlamaIndex.",
+  "author": "Kamil Samigullin <kamil@samigullin.info>",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+  }
+}
