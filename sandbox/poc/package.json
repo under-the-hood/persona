@@ -7,8 +7,8 @@
   "license": "ISC",
   "type": "module",
   "scripts": {
-    "index": "time node indexer.js",
-    "prompt": "time node prompter.js"
+    "index": "time node --no-deprecation indexer.js",
+    "prompt": "time node --no-deprecation prompter.js"
   },
   "dependencies": {
     "llamaindex": "^0.0.0-20231026231921"

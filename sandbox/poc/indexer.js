@@ -4,6 +4,8 @@ import {serviceContextFromDefaults, storageContextFromDefaults} from "llamaindex
 async function main() {
   const reader = new MarkdownReader()
   const documents = await reader.loadData("./dataset/cv.md")
+  const control = await reader.loadData("./dataset/private.md")
+  documents.push(...control)
 
   const model = new OpenAI({
     model: "gpt-3.5-turbo-16k",
@@ -20,4 +22,4 @@ async function main() {
   });
 }
 
-main().then(r => console.log(r));
+main().then(r => console.log("🤖"));
