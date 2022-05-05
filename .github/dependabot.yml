@@ -1,6 +1,21 @@
 version: 2
 
 updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+      time: '05:00'
+      timezone: UTC
+    labels:
+      - 'type: improvement'
+      - 'scope: inventory'
+      - 'scope: deps'
+    commit-message:
+      prefix: 'ci/cd'
+      include: 'scope'
+    open-pull-requests-limit: 30
+
   - package-ecosystem: gitsubmodule
     directory: /
     schedule:

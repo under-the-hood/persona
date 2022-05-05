@@ -1,4 +1,4 @@
-# 👨‍🔬LLM and GPT research
+# 🤖 LLM and GPT research
 
 Building a personal actor to communicate with real people through messengers.
 
