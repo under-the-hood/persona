@@ -30,3 +30,5 @@ Building a personal actor to communicate with real people through messengers.
 ### Collections
 
 - https://github.com/e2b-dev/awesome-ai-agents
+
+<p align="right">made with ❤️ for everyone by <a href="https://www.octolab.org/">OctoLab</a></p>
