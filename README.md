@@ -11,6 +11,8 @@ Building a personal actor to communicate with real people through messengers.
   - https://docs.llamaindex.ai/
   - https://ts.llamaindex.ai/
   - https://github.com/run-llama
+- https://docs.danswer.dev/
+  - https://github.com/danswer-ai/danswer
 - https://ollama.ai/
   - https://github.com/jmorganca/ollama
 - https://www.langchain.com/
