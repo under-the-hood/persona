@@ -27,6 +27,10 @@ Building a personal actor to communicate with real people through messengers.
 
 ### Inventory
 
+- https://github.com/openai/openai-python
+- https://reflex.dev/
+  - https://github.com/reflex-dev/reflex
+  - https://github.com/reflex-dev/reflex-chat
 - https://github.com/sashabaranov/go-openai
 
 ### Collections
