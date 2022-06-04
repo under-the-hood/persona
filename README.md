@@ -11,6 +11,8 @@ Building a personal actor to communicate with real people through messengers.
   - https://docs.llamaindex.ai/
   - https://ts.llamaindex.ai/
   - https://github.com/run-llama
+- https://docs.danswer.dev/
+  - https://github.com/danswer-ai/danswer
 - https://ollama.ai/
   - https://github.com/jmorganca/ollama
 - https://www.langchain.com/
@@ -25,8 +27,14 @@ Building a personal actor to communicate with real people through messengers.
 
 ### Inventory
 
+- https://github.com/openai/openai-python
+- https://reflex.dev/
+  - https://github.com/reflex-dev/reflex
+  - https://github.com/reflex-dev/reflex-chat
 - https://github.com/sashabaranov/go-openai
 
 ### Collections
 
 - https://github.com/e2b-dev/awesome-ai-agents
+
+<p align="right">made with ❤️ for everyone by <a href="https://www.octolab.org/">OctoLab</a></p>
