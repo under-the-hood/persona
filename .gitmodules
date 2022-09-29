@@ -28,3 +28,6 @@
 [submodule "research/danswer"]
 	path = research/danswer
 	url = git@github.com:danswer-ai/danswer.git
+[submodule "research/ollama-webui"]
+	path = research/ollama-webui
+	url = git@github.com:ollama-webui/ollama-webui.git

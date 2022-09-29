@@ -15,6 +15,8 @@ Building a personal actor to communicate with real people through messengers.
   - https://github.com/danswer-ai/danswer
 - https://ollama.ai/
   - https://github.com/jmorganca/ollama
+- https://ollamahub.com/
+  - https://github.com/ollama-webui/ollama-webui
 - https://www.langchain.com/
   - https://python.langchain.com/
   - https://github.com/langchain-ai/langchain
