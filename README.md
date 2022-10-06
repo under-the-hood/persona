@@ -7,6 +7,9 @@ Building a personal actor to communicate with real people through messengers.
 - https://www.danswer.ai/
   - https://docs.danswer.dev/
   - https://github.com/danswer-ai/danswer
+- https://embedchain.ai/
+  - https://docs.embedchain.ai/
+  - https://github.com/embedchain/embedchain
 - https://jan.ai/
   - https://jan.ai/docs/
   - https://github.com/janhq/jan

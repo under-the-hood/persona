@@ -34,3 +34,6 @@
 [submodule "research/jan"]
 	path = research/jan
 	url = git@github.com:janhq/jan.git
+[submodule "research/embedchain"]
+	path = research/embedchain
+	url = git@github.com:embedchain/embedchain.git
