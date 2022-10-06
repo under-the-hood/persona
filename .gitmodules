@@ -31,3 +31,6 @@
 [submodule "research/ollama-webui"]
 	path = research/ollama-webui
 	url = git@github.com:ollama-webui/ollama-webui.git
+[submodule "research/jan"]
+	path = research/jan
+	url = git@github.com:janhq/jan.git
